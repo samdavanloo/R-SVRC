@@ -1,5 +1,7 @@
 function [ourM,problem]=sphere_3DPlotting(X,M0)
 
+% Partially from https://github.com/gradywright/spherepts 
+
     %% Data simulation 
   
     rng(4);

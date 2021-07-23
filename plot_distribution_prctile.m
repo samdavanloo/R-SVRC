@@ -1,4 +1,6 @@
 function plot_distribution_prctile(varargin)
+
+% Matlab built-in function 
 % PLOT_DISTRIBUTION_PRCTILE(X,Y) - Plots the median with percentile errors as a shaded region in the open 
 % figure window.
 % Inputs:
